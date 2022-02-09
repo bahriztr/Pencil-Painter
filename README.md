@@ -10,11 +10,11 @@ If you tap the screen you will start the game and process bar start to move.
 
 Tapping on the screen makes the pen rotate on 180 degree and the pen get some height.
 
-![image painting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
+![image before collecting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
 
 You need to collect same as color as wall.
 
-![image before collecting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
+![image after collecting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
 
 The top of the pen will be the same color as when you collect a bottle of ink. 
 
@@ -28,7 +28,7 @@ If you collected wrong color you can't paint the walls. But you can skip the ove
 
 ![image entrance](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/7.after%20misspainting.png)
 
-If you paint your miss color you will be lose the game and you will see this UI.
+If you paint with wrong color you will be lose the game and you will see this UI.
 
 ![image entrance](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/8.ui.png)
 
