@@ -12,11 +12,7 @@ Tapping on the screen makes the pen rotate on 180 degree and the pen get some he
 
 ![image before collecting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
 
-You need to collect same as color as wall.
-
-![image after collecting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
-
-The top of the pen will be the same color as when you collect a bottle of ink. 
+You need to collect same as color as wall. The top of the pen will be the same color as when you collect a bottle of ink. 
 
 ![image entrance](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/3.painting.png)
 
