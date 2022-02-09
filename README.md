@@ -6,15 +6,15 @@ The purpose of the game successfully painting the walls.
 
 If you tap the screen you will start the game and process bar start to move.
 
-![image entrance](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/2.tap%20the%20screen.png)
+![image tap the screen](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/2.tap%20the%20screen.png)
 
-Tapping on the screen makes the penc rotate on 180 degree and the pen get some height.
+Tapping on the screen makes the pen rotate on 180 degree and the pen get some height.
 
-![image entrance](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
+![image painting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
 
 You need to collect same as color as wall.
 
-![image entrance](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
+![image before collecting](https://github.com/bahriztr/Pencil-Painter/blob/main/imagine/4.before%20collecting.png)
 
 The top of the pen will be the same color as when you collect a bottle of ink. 
 
